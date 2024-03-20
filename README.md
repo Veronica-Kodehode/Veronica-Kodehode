@@ -7,9 +7,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-Kodehode&show_icons=true&theme=synthwave" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-Kodehode&layout=compact&show_icons=true&theme=synthwave" alt="Top Languages">
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veronica-Kodehode&layout=compact&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=Veronica-Kodehode&show_icons=true&theme=transparent">
  </a>
 
