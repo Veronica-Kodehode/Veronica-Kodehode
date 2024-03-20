@@ -7,5 +7,5 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-Kodehode&layout=compact&show_icons=true&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronica-Kodehode&layout=compact&show_icons=true&theme=dark" alt="Top Languages">
   </a>
